@@ -6,6 +6,7 @@ packages to install:
 ```
   yay -install i3-gaps-rounded
   yay -install polybar
+  yay -install kitty
   yay -install cascadia-code
   yay -install jetbrains-mono
   yay -install starship
